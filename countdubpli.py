@@ -2,7 +2,7 @@
 #items =[1, 2, 2, 3, 4, 4, 4, 5]
 #output- [2, 4]
 
-items=[1, 2, 2, 3, 4, 4, 4, 5]
+items=['A', 'B', 'B', 'C', 'D', 'D', 'D']
 new_items=[]
 ind=0
 z=0
